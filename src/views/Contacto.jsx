@@ -16,7 +16,7 @@ export default function Contcto() {
             <Form.Label className='texto'> Descripcion</Form.Label>
             <Form.Control as="textarea" rows={3} />
           </Form.Group>
-          <Button className='boton' variant="danger">Danger</Button>{' '}
+          <Button className='boton' variant="danger">Enviar</Button>{' '}
 
         </Form>
         </div>
