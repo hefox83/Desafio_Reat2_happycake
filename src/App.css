@@ -1,0 +1,38 @@
+#root {
+  margin: 0;
+}
+.navbar{
+  background: red;
+  color: white;
+
+}
+#brand{
+  display: flex;
+  margin-left: 70%;
+
+}
+#link{
+  display:inline-flex;
+}
+.titulo{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10%;
+}
+.titulo2{
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+}
+.texto{
+  display: flex;
+  justify-content: center;
+}
+.boton{
+  display: flex;
+  align-content: center;
+}
+
+
+
